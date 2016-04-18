@@ -1,1 +1,6 @@
 Food List
+
+orange
+chocolate
+plantain
+jollof rice
